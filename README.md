@@ -2,4 +2,4 @@
 
 A CCW project example with 3rd party assembly referenced.
 
-[turorial](https://blog.darkthread.net/blogs/ccw-example) (in Chinese)
+[turorial](https://blog.darkthread.net/blog/ccw-example) (in Chinese)
